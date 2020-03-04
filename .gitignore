@@ -1,0 +1,8 @@
+style.css.map
+.sass-cache
+.DS_Store
+*.log
+wp-content/uploads 
+node_modules
+wp-config.php
+replace_remove_for_live
